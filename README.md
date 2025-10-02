@@ -1,4 +1,4 @@
-Sklep internetowy z odzieżą
+Sklep internetowy z odzieżą  
 Cel aplikacji
 
 Celem aplikacji jest umożliwienie użytkownikom wygodnego i intuicyjnego przeglądania oraz zakupu odzieży online. Strona oferuje szeroki asortyment ubrań, umożliwiając klientom łatwe porównywanie produktów, dodawanie ich do koszyka oraz finalizowanie zamówienia w bezpieczny sposób.
