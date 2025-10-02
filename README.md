@@ -1,11 +1,22 @@
-# Flappy Bird
+#Sklep internetowy z odzieżą
+#Cel aplikacji
 
-## Cel aplikacji
-Celem aplikacji jest zapewnienie prostej i dynamicznej rozgrywki polegającej na sterowaniu ptakiem, który musi omijać przeszkody w postaci rur. Gra ma charakter zręcznościowy i pozwala na rywalizację poprzez uzyskiwanie jak najwyższego wyniku.
+Celem aplikacji jest umożliwienie użytkownikom wygodnego i intuicyjnego przeglądania oraz zakupu odzieży online. Strona oferuje szeroki asortyment ubrań, umożliwiając klientom łatwe porównywanie produktów, dodawanie ich do koszyka oraz finalizowanie zamówienia w bezpieczny sposób.
 
-## Zasada działania
-Gra opiera się na prostym mechanizmie fizyki: postać (ptak) spada w dół pod wpływem grawitacji, a użytkownik może podbijać ją w górę poprzez wykonywanie akcji (np. naciśnięcie klawisza spacji lub kliknięcie). Jeśli ptak zderzy się z przeszkodą lub ziemią, rozgrywka się kończy.
+#Zasada działania
 
-## Interakcja z użytkownikiem
-Interakcja polega na kontrolowaniu wysokości lotu ptaka za pomocą pojedynczego przycisku. Każde naciśnięcie powoduje uniesienie ptaka w górę. Zadaniem gracza jest utrzymanie postaci w ruchu i przechodzenie przez otwory pomiędzy rurami. Za każdy udany przelot przyznawany jest punkt, a wynik wyświetlany jest na ekranie.
+Aplikacja działa jako responsywna strona internetowa z wbudowanym systemem katalogowania produktów. Użytkownik może:
 
+przeglądać produkty według kategorii
+
+zapoznawać się ze szczegółami produktu (zdjęcia, opis, dostępność rozmiarów, cena),
+
+dodawać wybrane produkty do koszyka,
+
+#Interakcja z użytkownikiem
+
+Interfejs użytkownika oparty jest na przejrzystym układzie graficznym. Interakcja odbywa się poprzez:
+
+nawigację po stronie (menu główne, przyciski kategorii),
+
+filtrowanie i wyszukiwanie produktów,
