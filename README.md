@@ -4,7 +4,7 @@
 Celem aplikacji jest umożliwienie użytkownikom wygodnego i intuicyjnego przeglądania oraz zakupu odzieży online. Strona oferuje szeroki asortyment ubrań, umożliwiając klientom łatwe porównywanie produktów, dodawanie ich do koszyka oraz finalizowanie zamówienia w bezpieczny sposób.
 
 #Zasada działania
-
+ 
 Aplikacja działa jako responsywna strona internetowa z wbudowanym systemem katalogowania produktów. Użytkownik może:
 
 przeglądać produkty według kategorii
